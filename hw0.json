@@ -1,0 +1,14 @@
+{
+    "name":{
+        "first": "Raven",
+        "Last": "Zhang"
+    },
+    "fromWisconsin": false,
+    "numCredits": 0,
+    "major": "Interaction Design and Psychology",
+    "interests": [
+        "City Walk",
+        "Music"
+    ]
+
+}
